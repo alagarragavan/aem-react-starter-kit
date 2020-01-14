@@ -64,6 +64,10 @@ Or to deploy only the bundle to the author, run
 
     mvn clean install -PautoInstallBundle
 
+## Validation
+
+At the end of the successful build and deploy, http://localhost:6502/editor.html/content/wknd-events/react/home.html should work.
+
 ## Testing
 
 There are three levels of testing contained in the project:
