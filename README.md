@@ -1,4 +1,4 @@
-# Bose React Starter Kit
+# AEM React Starter Kit
 
 The project is created as a starter kit to integrate React with AEM. It can either be a SPA application or individual React Component. The project is built based on Adobe's recommended way as per https://helpx.adobe.com/experience-manager/kt/sites/using/getting-started-spa-wknd-tutorial-develop/react.html
 
