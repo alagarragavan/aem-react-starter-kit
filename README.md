@@ -5,11 +5,11 @@ The project is created as a starter kit to integrate React with AEM. It can eith
 # Prerequisites
 The following should be installed:
 
-Java 1.8
-AEM 6.5 or AEM 6.4 + SP2
-Apache Maven (3.3.9 or newer)
-Node.js v10+
-npm 6+
+    Java 1.8
+    AEM 6.5 or AEM 6.4 + SP2 (port: 6502 for author, 6503 for publish. It can be modified in pom.xml if needed)
+    Apache Maven (3.3.9 or newer)
+    Node.js v10+
+    npm 6+
 
 Start by double checking that the above tools have been installed and available via the command line path. Open up a new terminal and run the following commands:
 
